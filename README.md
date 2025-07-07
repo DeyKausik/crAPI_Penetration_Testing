@@ -1,2 +1,2 @@
 # crAPI_Penetration_Testing
-Penetration Testing of crAPI, Completely Ridiculous API a purposely vulnerable API.
+crAPI, Completely Ridiculous API a purposely vulnerable API created to shed light on the top ten API security risks outlined by the Open Web Application Security Project (OWASP). I have extensively practiced and successfully compiled a comprehensive report detailing all vulnerabilities found in the crAPI, complete with technical specifications and corresponding Proofs of Concept (POC).
